@@ -7,5 +7,8 @@ There are two type of script to obtain a list of proxy IP:port number from the f
 
 Urllib will provide you 164 proxies but BeautifulSoup will give you the entire list of 300 proxies.
 
+### Acknowledgement
+- https://stackoverflow.com/questions/48426624/scraping-free-proxy-listing-website
+
 Enjoy programming!
 @RD
