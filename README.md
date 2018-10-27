@@ -12,5 +12,5 @@ Urllib will provide you 164 proxies but BeautifulSoup will give you the entire l
 - https://www.scrapehero.com/how-to-fake-and-rotate-user-agents-using-python-3/
 
 Enjoy programming!
-http://brainengine.eu/2018/10/27/get-free-proxy-list-python/
 @RD
+http://brainengine.eu/2018/10/27/get-free-proxy-list-python/
