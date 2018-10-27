@@ -13,4 +13,4 @@ Urllib will provide you 164 proxies but BeautifulSoup will give you the entire l
 
 Enjoy programming!
 @RD
-http://brainengine.eu/2018/10/27/get-free-proxy-list-python/
+[http://brainengine.eu/2018/10/27/get-free-proxy-list-python/](http://streamvoyage.com/5AME)
